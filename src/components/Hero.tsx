@@ -40,7 +40,7 @@ const Hero = () => {
               <ArrowRight className="w-5 h-5 group-hover:translate-x-1 transition-transform" />
             </a>
             <a
-              href="tel:+385917812745"
+              href="tel:+385913811118"
               className="inline-flex items-center justify-center gap-2 bg-primary-foreground/10 hover:bg-primary-foreground/20 text-primary-foreground px-8 py-4 rounded-lg font-semibold text-lg transition-all border border-primary-foreground/20"
             >
               Nazovite nas

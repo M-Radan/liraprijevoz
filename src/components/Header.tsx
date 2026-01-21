@@ -17,7 +17,7 @@ const Header = () => {
         <div className="hidden md:flex items-center justify-end gap-6 py-2 text-sm text-primary-foreground/80 border-b border-primary-foreground/10">
           <a href="tel:+385917812745" className="flex items-center gap-2 hover:text-accent transition-colors">
             <Phone className="w-3.5 h-3.5" />
-            091 781 2745
+            091 381 1118
           </a>
           <a href="mailto:liraprijevoz@gmail.com" className="flex items-center gap-2 hover:text-accent transition-colors">
             <Mail className="w-3.5 h-3.5" />
@@ -92,8 +92,8 @@ const Header = () => {
                 Zatražite ponudu
               </a>
               <div className="flex flex-col gap-3 pt-4 border-t border-primary-foreground/10 text-sm text-primary-foreground/70">
-                <a href="tel:+385917812745" className="flex items-center gap-2">
-                  <Phone className="w-4 h-4" /> 091 781 2745
+                <a href="tel:+385913811118" className="flex items-center gap-2">
+                  <Phone className="w-4 h-4" /> 091 381 1118
                 </a>
                 <a href="mailto:liraprijevoz@gmail.com" className="flex items-center gap-2">
                   <Mail className="w-4 h-4" /> liraprijevoz@gmail.com

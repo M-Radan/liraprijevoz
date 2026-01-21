@@ -21,7 +21,7 @@ const Contact = () => {
           headers: {
             Accept: "application/json",
           },
-          body: formData, 
+          body: formData,
         }
       );
 
@@ -50,9 +50,8 @@ const Contact = () => {
     {
       icon: Phone,
       label: "Telefon",
-      value: "091 781 2745",
-      href: "tel:+385917812745",
-      secondary: ["091 611 9893", "099 734 4202"],
+      value: "091 381 1118",
+      href: "tel:+385913811118",
     },
     {
       icon: Mail,
@@ -90,7 +89,7 @@ const Contact = () => {
             <form onSubmit={handleSubmit} className="space-y-5">
               <input type="hidden" name="_captcha" value="false" />
               <input type="hidden" name="_template" value="table" />
-              
+
               <div>
                 <label htmlFor="name" className="block text-sm font-medium text-foreground mb-2">
                   Ime i prezime *
@@ -105,7 +104,7 @@ const Contact = () => {
                   placeholder="Vaše ime"
                 />
               </div>
-              
+
               <div className="grid sm:grid-cols-2 gap-5">
                 <div>
                   <label htmlFor="email" className="block text-sm font-medium text-foreground mb-2">
@@ -135,7 +134,7 @@ const Contact = () => {
                   />
                 </div>
               </div>
-              
+
               <div>
                 <label htmlFor="message" className="block text-sm font-medium text-foreground mb-2">
                   Poruka *
@@ -150,7 +149,7 @@ const Contact = () => {
                   placeholder="Opišite vaš upit..."
                 />
               </div>
-              
+
               <button
                 type="submit"
                 disabled={isSubmitting}
@@ -179,11 +178,6 @@ const Contact = () => {
                   <div className="text-lg font-semibold text-foreground group-hover:text-accent transition-colors">
                     {info.value}
                   </div>
-                  {info.secondary && (
-                    <div className="text-muted-foreground text-sm mt-1">
-                      {info.secondary.join(" • ")}
-                    </div>
-                  )}
                 </div>
               </a>
             ))}
