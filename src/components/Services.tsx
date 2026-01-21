@@ -4,7 +4,7 @@ const services = [
   {
     icon: Truck,
     title: "Cestovni prijevoz",
-    description: "Profesionalni prijevoz robe cestovnim putem diljem Hrvatske i Europe.",
+    description: "Profesionalni prijevoz robe cestovnim putevima diljem Hrvatske i Europe.",
   },
   {
     icon: Package,
@@ -46,7 +46,7 @@ const Services = () => {
           </h2>
           <p className="text-muted-foreground text-lg">
             Pružamo pouzdane i profesionalne usluge cestovnog prijevoza robe, 
-            prilagođene Vašim potrebama.
+            prilagođene upravo Vašim potrebama.
           </p>
         </div>
 

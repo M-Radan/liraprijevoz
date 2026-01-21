@@ -28,7 +28,7 @@ const Hero = () => {
           
           <p className="text-lg md:text-xl text-primary-foreground/80 mb-8 max-w-2xl animate-slide-up" style={{ animationDelay: "0.1s" }}>
             LIRA PRIJEVOZ d.o.o. pruža profesionalne usluge cestovnog prijevoza robe. 
-            Vaša roba je naša odgovornost - pouzdano, brzo i sigurno.
+            Vaša roba naša je odgovornost - pouzdano, brzo i sigurno.
           </p>
           
           <div className="flex flex-col sm:flex-row gap-4 animate-slide-up" style={{ animationDelay: "0.2s" }}>

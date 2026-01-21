@@ -23,10 +23,10 @@ const About = () => {
               Vaš pouzdani partner u prijevozu robe
             </h2>
             <p className="text-muted-foreground text-lg mb-6 leading-relaxed text-justify">
-              <strong className="text-foreground">LIRA PRIJEVOZ d.o.o.</strong> je tvrtka osnovana 2022. godine sa sjedištem u Dobrinčama. Specijalizirani smo za cestovni prijevoz robe i pružamo profesionalne transportne usluge.
+              <strong className="text-foreground">LIRA PRIJEVOZ d.o.o.</strong> osnovana je 2022. godine sa sjedištem u Dobrinčama. Specijalizirani smo za cestovni prijevoz robe i pružamo profesionalne transportne usluge.
             </p>
             <p className="text-muted-foreground mb-8 leading-relaxed text-justify">
-              Naš tim iskusnih profesionalaca posvećen je sigurnom i pravovremenom prijevozu Vaše robe. S bonitetnom ocjenom AA+, pozicioniramo se kao pouzdan partner u transportnoj industriji.
+              Naš tim iskusnih profesionalaca posvećen je sigurnom i pravovremenom prijevozu Vaše robe. S bonitetnom ocjenom AA+, pozicioniramo se kao izrazito pouzdan partner u transportnoj industriji.
             </p>
 
             <div className="grid sm:grid-cols-2 gap-4">

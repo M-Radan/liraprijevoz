@@ -78,7 +78,7 @@ const Contact = () => {
             Javite nam se
           </h2>
           <p className="text-muted-foreground text-lg">
-            Kontaktirajte nas za ponudu ili bilo kakva pitanja. Stojimo Vam na raspolaganju.
+            Slobodno nas kontaktirajte za ponudu ili bilo kakva pitanja. Stojimo Vam na raspolaganju.
           </p>
         </div>
 
@@ -117,7 +117,7 @@ const Contact = () => {
                     required
                     maxLength={255}
                     className="w-full px-4 py-3 rounded-lg border border-input bg-background text-foreground focus:outline-none focus:ring-2 focus:ring-accent transition-all"
-                    placeholder="vas@email.com"
+                    placeholder="vas@gmail.com"
                   />
                 </div>
                 <div>
@@ -130,7 +130,7 @@ const Contact = () => {
                     name="phone"
                     maxLength={50}
                     className="w-full px-4 py-3 rounded-lg border border-input bg-background text-foreground focus:outline-none focus:ring-2 focus:ring-accent transition-all"
-                    placeholder="+385 91 xxx xxxx"
+                    placeholder="+385 9x xxx xxxx"
                   />
                 </div>
               </div>
@@ -146,7 +146,7 @@ const Contact = () => {
                   rows={5}
                   maxLength={2000}
                   className="w-full px-4 py-3 rounded-lg border border-input bg-background text-foreground focus:outline-none focus:ring-2 focus:ring-accent transition-all resize-none"
-                  placeholder="Opišite upit..."
+                  placeholder="Što Vas zanima?"
                 />
               </div>
 
