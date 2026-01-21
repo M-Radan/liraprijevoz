@@ -9,7 +9,7 @@ const services = [
   {
     icon: Package,
     title: "Distribucija robe",
-    description: "Sigurna i pravovremena dostava vaše robe na željenu lokaciju.",
+    description: "Sigurna i pravovremena dostava Vaše robe na željenu lokaciju.",
   },
   {
     icon: Clock,
@@ -19,7 +19,7 @@ const services = [
   {
     icon: Shield,
     title: "Osigurana roba",
-    description: "Potpuna sigurnost vaše robe tijekom cijelog transporta.",
+    description: "Potpuna sigurnost Vaše robe tijekom cijelog transporta.",
   },
   {
     icon: MapPin,
@@ -29,7 +29,7 @@ const services = [
   {
     icon: Users,
     title: "Stručni tim",
-    description: "Iskusni vozači i profesionalno osoblje na vašoj usluzi.",
+    description: "Iskusni vozači i profesionalno osoblje na Vašoj usluzi.",
   },
 ];
 
@@ -46,7 +46,7 @@ const Services = () => {
           </h2>
           <p className="text-muted-foreground text-lg">
             Pružamo pouzdane i profesionalne usluge cestovnog prijevoza robe, 
-            prilagođene vašim potrebama.
+            prilagođene Vašim potrebama.
           </p>
         </div>
 

@@ -28,7 +28,7 @@ const Contact = () => {
       if (response.ok) {
         toast({
           title: "Poruka uspješno poslana!",
-          description: "Javit ćemo vam se u najkraćem mogućem roku.",
+          description: "Javit ćemo Vam se u najkraćem mogućem roku.",
         });
         form.reset();
       } else {
@@ -78,7 +78,7 @@ const Contact = () => {
             Javite nam se
           </h2>
           <p className="text-muted-foreground text-lg">
-            Kontaktirajte nas za ponudu ili bilo kakva pitanja. Stojimo vam na raspolaganju.
+            Kontaktirajte nas za ponudu ili bilo kakva pitanja. Stojimo Vam na raspolaganju.
           </p>
         </div>
 
@@ -146,7 +146,7 @@ const Contact = () => {
                   rows={5}
                   maxLength={2000}
                   className="w-full px-4 py-3 rounded-lg border border-input bg-background text-foreground focus:outline-none focus:ring-2 focus:ring-accent transition-all resize-none"
-                  placeholder="Opišite vaš upit..."
+                  placeholder="Opišite upit..."
                 />
               </div>
 
