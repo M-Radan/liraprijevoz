@@ -1,7 +1,7 @@
 # Lira Prijevoz - Web Stranica
 
 **Klijent:** Jakov Granić  
-**Live demo:** [www.liraprijevoz.hr](https://www.liraprijevoz.hr)  
+**Live:** [www.liraprijevoz.hr](https://www.liraprijevoz.hr)  
 **Repozitorij:** [[GitHub link](https://github.com/M-Radan/liraprijevoz)]  
 
 ---
@@ -31,3 +31,4 @@ HTML, CSS, JavaScript, FormSubmit, GitHub, Vercel, Loveable LLM (asistencija u s
 
 **Autor:** [Mirko Radan]  
 **Godina:** 2026
+
