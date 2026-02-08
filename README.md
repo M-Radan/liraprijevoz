@@ -10,7 +10,7 @@
 
 Web stranica za **Lira Prijevoz**, dizajnirana da bude **moderna, responzivna i user-friendly**. Stranica omogućuje jednostavan pregled usluga i kontaktiranje klijenta putem online forme.  
 
-Projekt je realiziran uz **asistenciju AI alata (Loveable LLM)** za generiranje sadržaja, dok su **sve dizajn i kodiranje implementirani samostalno**.  
+Projekt je realiziran uz Loveable LLM za generiranje sadržaja.  
 
 ---
 
@@ -31,4 +31,5 @@ HTML, CSS, JavaScript, FormSubmit, GitHub, Vercel, Loveable LLM (asistencija u s
 
 **Autor:** [Mirko Radan]  
 **Godina:** 2026
+
 
